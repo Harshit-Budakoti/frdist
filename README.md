@@ -1,6 +1,7 @@
 # Frequency_distribution_tables_and-ogives
-PRELUDE
+INTRODUCTION
 
+DATA REQUIREMENTS :- UNIFORMLY GROUPED FREQUENCY DISTRIBUTION:-
 This is a R statististical package intended towards automating the process of Frequency distribution Table Data Framing and Ogive plotting process.
 
 INPUT
